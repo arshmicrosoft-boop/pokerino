@@ -1,0 +1,1 @@
+"""Mathematical core — pure functions, no state, no strategy, no RNG."""
