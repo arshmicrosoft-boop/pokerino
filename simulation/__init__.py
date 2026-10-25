@@ -1,0 +1,1 @@
+"""Simulation layer — game states, actions, payouts, seeded RNG."""
