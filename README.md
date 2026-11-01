@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🃏 NLHE Mathematical Simulator & Benchmark Engine
+# NLHE Mathematical Simulator & Benchmark Engine
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Tests](https://img.shields.io/badge/Tests-17%20Passing-brightgreen?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
